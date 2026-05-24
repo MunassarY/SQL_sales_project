@@ -13,7 +13,8 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
   - Calculated total revenue and key performance metrics per segment.
   - Identified top-performing segments to optimize marketing and retention.
 
-#### 🖥️**Query**: 
+#### 🖥️**Query**: [1_customer_segmentation.sql](Scripts/1_customer_segmentation.sql)
+
 
 #### 📈 **Visualization**:
 
@@ -35,7 +36,7 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
  - Measured user retention dynamics to evaluate long-term engagement.
 
 
-  #### 🖥️**Query** :
+  #### 🖥️**Query** :[Cohor_analysis] (2_cohort_analysis.sql)
 
   #### 📈 **Visualization**:
 
@@ -60,7 +61,7 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
   - Analyzed transactional recency and behavioral purchasing patterns.
   - Generated custom user metrics to track individual account health.
 
-  #### 🖥️**Query** :
+  #### 🖥️**Query** : [customer_retention](3_customers_retention.sql)
 
 
   #### 📈 **Visualization**:
