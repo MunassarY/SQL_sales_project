@@ -19,7 +19,7 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
 
 #### 📈 **Visualization**:
 
-<img src="../images/avg_seg_percentage_bar_chart.png" width="50%">
+<img src="/Images/avg_seg_percentage_bar_chart.png" width="50%">
 
   #### 📊 **Key Findings**
   - High-Value: 25% of the customer base ($12,371$ users) drives $65.6\%$ of total revenue ($135.4\text{M}$).
@@ -41,7 +41,7 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
 
   #### 📈 **Visualization**:
 
-  <img src="../Images/customer_revenue.png" width="50%">
+  <img src="/Images/customer_revenue.png" width="50%">
 
 
   #### 📊 **Key Findings** :
@@ -67,7 +67,7 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
 
   #### 📈 **Visualization**:
 
-  <img src="../Images/customer_stauts.png" width="50%">
+  <img src="/Images/customer_stauts.png" width="50%">
 
   #### 📊 **Key Findings** :
 
