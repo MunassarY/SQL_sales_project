@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SQL Project - Sales Analysis 
 ## Overview
 Analyzing e-commerce customer behavior, retention metrics, and lifetime value to design targeted retention strategies and maximize revenue growth
