@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SQL Project - Sales Analysis 
 ## Overview
 Analyzing e-commerce customer behavior, retention metrics, and lifetime value to design targeted retention strategies and maximize revenue growth
@@ -105,6 +105,3 @@ Analyzing e-commerce customer behavior, retention metrics, and lifetime value to
 - **Database**: PostgreSQL
 - **Analysis Tools**: PostgreSQL, DBeaver, PGadmin
 - **Visualization**: Google Gemini
-=======
-
->>>>>>> ae8427c6939864a882a794c9f87d5f944f43800c
